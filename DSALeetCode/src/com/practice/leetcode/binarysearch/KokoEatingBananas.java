@@ -25,7 +25,7 @@ Input: piles = [30,11,23,4,20], h = 6
 Output: 23
  */
 
-package com.practice.leatcode.binarysearch;
+package com.practice.leetcode.binarysearch;
 
 import java.util.Arrays;
 

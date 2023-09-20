@@ -24,7 +24,7 @@ Explanation: Your function can return either index number 1 where the peak eleme
  or index number 5 where the peak element is 6.
  */
 
-package com.practice.leatcode.binarysearch;
+package com.practice.leetcode.binarysearch;
 
 public class FindPeakElement {
 

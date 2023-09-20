@@ -35,7 +35,7 @@ Constraints:
 1 <= pick <= n
 */
 
-package com.practice.leatcode.binarysearch;
+package com.practice.leetcode.binarysearch;
 
 
 public class GuessGame {
