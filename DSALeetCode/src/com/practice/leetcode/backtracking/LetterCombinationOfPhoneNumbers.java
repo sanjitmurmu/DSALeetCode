@@ -21,7 +21,7 @@ Input: digits = "2"
 Output: ["a","b","c"]*/
  
 
-package com.practice.leatcode.backtracking;
+package com.practice.leetcode.backtracking;
 
 import java.util.ArrayList;
 import java.util.List;
